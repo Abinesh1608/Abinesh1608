@@ -3,7 +3,7 @@
 <h1 align="center">Hello there,👋, I'm Abinesh</h1>
 <h3 align="center">A Machine learning Engineer wannabe</h3>
 
-  <source src="https://thumbs.gfycat.com/FlickeringTerrificJohndory.webp" type="video/webm">
+<img align="center" alt="Qries" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
 
 
 - 📫 How to reach me **abisrini16@gmail.com**
