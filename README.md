@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there,👋, I'm Abinesh</h1>
 <h3 align="center">A Machine learning Engineer wannabe</h3>
-<img alt="Qries" align ="center" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif" >
+<img alt="Qries" align ="center" src="https://thumbs.gfycat.com/FlickeringTerrificJohndory-mobile.mp4" >
 
 - 📫 How to reach me **abisrini16@gmail.com**
 
