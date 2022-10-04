@@ -4,7 +4,7 @@
 <h3 align="center">A Machine learning Engineer wannabe</h3>
 <div align="center">
    
-    <img alt ="ML gif" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
+    <img alt="Qries" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif" width=150" height="70">
 </div>
 
 - 📫 How to reach me **abisrini16@gmail.com**
